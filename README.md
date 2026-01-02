@@ -204,3 +204,12 @@ report/Sentient_Shield_Report.pdf
 
 
 ### ⭐ If you found this useful, consider starring the repository!
+
+## Week 3 – Active Response & Linux Firewall Automation
+- Implemented automated blocking of SSH brute-force attacks
+- Configured Wazuh Active Response on Linux agents
+- Debugged iptables-nft vs legacy backend issues
+- Verified real-time attacker mitigation
+
+Detailed documentation available at:
+report/Sentient_Shield_Report_week3.pdf
